@@ -1,3 +1,3 @@
 ```md
-StudentHub es una solución digital para administrar estudiantes y cursos universitarios.
+
 ```
